@@ -1,5 +1,8 @@
-# 🚗 SKN20-1ST-1TEAM  
-**자동차 등록 현황 및 기업 FAQ 조회 시스템**
+<h1 align="center">
+  🚗 <span style="color:#ff6600">SKN20-1ST-1TEAM</span> 🚗
+</h1>
+<p align="center">자동차 등록 현황 및 기업 FAQ 조회시스템</p>
+
 
 ## 💻 프로젝트 목표
 시장 전체의 등록 현황 흐름을 한눈에 보여주고,  
