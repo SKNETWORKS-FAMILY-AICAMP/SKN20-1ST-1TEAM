@@ -58,6 +58,15 @@
 
 ## 👀 시연 이미지
 <img width="1000" height="1000" alt="연도별 증감률" src="https://github.com/user-attachments/assets/658eabec-98af-48cd-b6ee-e2878e8b278b" />
+<img width="1000" height="1000" alt="연료별 비율" src="https://github.com/user-attachments/assets/f7283030-5384-4bc8-801e-30a75c456eec" />
+<img width="1000" height="1000" alt="연료별 차종비율" src="https://github.com/user-attachments/assets/e9a27b8f-e006-4f65-ba76-53d88b1fa6cd" />
+<img width="1000" height="1000" alt="지역 차종 자동차 등록 " src="https://github.com/user-attachments/assets/7ace3aea-412e-4610-9811-a0afc76b3c6c" />
+<img width="1000" height="1000" alt="지역:차종 등록 지도" src="https://github.com/user-attachments/assets/68cc0bbb-5f9d-4b08-b966-c8e25d5b826b" />
+<img width="1000" height="1000" alt="FAQ" src="https://github.com/user-attachments/assets/9f60fd83-ba06-42dc-995c-d4aa2feaad45" />
+
+
+
+
 
 
 ---
