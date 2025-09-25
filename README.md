@@ -14,7 +14,7 @@
 **연령·성별·지역별 차량 선호도 및 등록 추세**를 한눈에 볼 수 있도록 기획되었습니다.
 
 ## 👥 팀원
-| <img src="./images/효빈.jpg" width="150"> <br> 김효빈 |  <img src="./images/수현.jpg" width="150"> <br> 황수현 |  <img src="./images/지은.jpg" width="150"> <br> 김지은 |  <img src="./images/소영1.jpg" width="150"> <br> 정소영 |  <img src="./images/민지.jpg" width="150"> <br> 강민지 |
+| <img src="./images/효빈.jpg" width="150"> <br> 김효빈 |  <img src="./images/수현.jpg" width="150"> <br> 황수현 |  <img src="./images/지은.jpg" width="150"> <br> 김지은 |  <img src="./images/소영.jpg" width="150"> <br> 정소영 |  <img src="./images/민지.jpg" width="150"> <br> 강민지 |
 |:------:|:------:|:------:|:------:|:------:|
 
 ---
