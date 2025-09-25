@@ -58,6 +58,7 @@
 
 ## 👀 시연 이미지
 <img width="1000" height="1000" alt="연도별 증감률" src="https://github.com/user-attachments/assets/658eabec-98af-48cd-b6ee-e2878e8b278b" />
+<img width="1000" height="1000" alt="성별 연령별" src="https://github.com/user-attachments/assets/c78dfc56-328f-427c-a4e5-096c7538f639" />
 <img width="1000" height="1000" alt="연료별 비율" src="https://github.com/user-attachments/assets/f7283030-5384-4bc8-801e-30a75c456eec" />
 <img width="1000" height="1000" alt="연료별 차종비율" src="https://github.com/user-attachments/assets/e9a27b8f-e006-4f65-ba76-53d88b1fa6cd" />
 <img width="1000" height="1000" alt="지역 차종 자동차 등록 " src="https://github.com/user-attachments/assets/7ace3aea-412e-4610-9811-a0afc76b3c6c" />
