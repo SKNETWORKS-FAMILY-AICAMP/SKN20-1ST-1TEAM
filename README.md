@@ -57,7 +57,8 @@
 </p>
 
 ## 👀 시연 이미지
-(프로젝트 실행 화면 스크린샷 추가)
+<img width="1000" height="978" alt="연도별 증감률" src="https://github.com/user-attachments/assets/658eabec-98af-48cd-b6ee-e2878e8b278b" />
+
 
 ---
 
