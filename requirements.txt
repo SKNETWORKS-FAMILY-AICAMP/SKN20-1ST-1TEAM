@@ -1,0 +1,17 @@
+# Web App
+streamlit
+plotly
+
+# Data Handling
+pandas
+openpyxl
+SQLAlchemy
+pymysql
+
+# Environment
+python-dotenv
+
+# Crawling
+selenium
+webdriver-manager
+beautifulsoup4

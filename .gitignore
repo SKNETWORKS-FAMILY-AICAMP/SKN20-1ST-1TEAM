@@ -1,0 +1,17 @@
+# 가상환경
+.vscode
+
+# 환경변수
+.env
+
+# 파이썬
+__pycache__/
+*.__pycache__
+<<<<<<< HEAD
+=======
+*.sqlite3
+*.db
+>>>>>>> 6feece7 (0924)
+
+# macOS
+.DS_Store
