@@ -1,3 +1,5 @@
+# 완료
+# pip install selenium webdriver-manager
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -18,35 +20,29 @@ driver.maximize_window()
 print('브라우저가 성공적으로 열렸습니다.')
 time.sleep(3)
 
-# 시점 -> 시작 지점 -> 2015.12 -> 2024.12
+# 시점 -> 시작 지점 -> 2015.01 -> 2024.12
 
 # 시점 클릭
 point_click = driver.find_element(By.ID,'tabTimeText')
 point_click.click()
 time.sleep(2)
 
-# 2015.12 클릭
-# start_point_click = driver.find_element(By.XPATH,'//*[@id="timeM"]/h2/select[1]/option[109]')
-# start_point_click.click()
-# select 요소 찾기
-select_element = driver.find_element("css selector", "select.box")  # class="box"인 select
-# Select 객체 생성
-select = Select(select_element)
-# 방법 1: value 값으로 선택
-select.select_by_value("201512")  # 2015.12
-time.sleep(3)
+# 2015.01 클릭
+start_point_click = driver.find_element(By.XPATH,'//*[@id="timeM"]/h2/select[1]')
+start_point_click.click()
+time.sleep(2)
 
 # 2024.12 클릭
 y2020_m01_click = driver.find_element(By.XPATH,'//*[@id="timeM"]/h2/select[1]/option[120]')
 y2020_m01_click.click()
-time.sleep(3)
+time.sleep(2)
 
 # 조회 v 클릭
 y2025_m01_click = driver.find_element(By.XPATH,'//*[@id="tabTimeText"]/button[2]')
 y2025_m01_click.click()
-time.sleep(15)
+time.sleep(10)
 
-# 해당 정보를 담은 문자열 추출 (4)
+# 해당 정보를 담은 문자열 추출
 soup = BeautifulSoup(driver.page_source,'html.parser')
 fuel_car_datas = soup.select('#mainTable > tbody > tr')
 
@@ -55,7 +51,7 @@ total_rows = []
 for i, row in enumerate(fuel_car_datas[:5]): # 상위 5행만 처리 range(0,4)
     tds = row.select('td')
     total_rows.append([td.text.replace('\xa0','') for td in tds])
-
+    
 
 
 ###############################################################
